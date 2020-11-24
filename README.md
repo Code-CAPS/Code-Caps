@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+Visit the YouTube-Projects repository for accompanying code to the YouTube Channel.
+
+https://www.youtube.com/channel/UChZIf-W3DVVVOxZnhZ_a7Ew
 
 <!--
 **Code-CAPS/Code-Caps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
